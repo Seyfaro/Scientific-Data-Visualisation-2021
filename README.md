@@ -1,5 +1,6 @@
 # Scientific-Data-Visualisation-2021
 Earth Science data visualisation &amp; statistics in R
+
 CONTENTS
 - Q1: Global Annual Temperature stripe chart for climate change visual representation
 - Q2: Statistics summary generator - input your own data and title to generate a stats summary for your dataset!
